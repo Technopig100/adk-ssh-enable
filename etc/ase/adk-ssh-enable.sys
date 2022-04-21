@@ -1,2 +1,0 @@
-This is a app to enable OpenSSH services for adk-linux  
-"systemctl enable --now sshd.service" is to enable OpenSSH services!
